@@ -24,8 +24,6 @@ body {
   justify-content: center;
   gap: 40px;
   min-height: 100vh;
-  /* background: #213641; */
-  /* background-color: #e7e2e2; */
   background: linear-gradient(#cdbaf44f,#aafb071d);
   z-index: -1;
 }
